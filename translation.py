@@ -7,11 +7,11 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dev : [wolfmasterxd](https://t.me/wolfmasterxd)
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 My Source : [Click Here](https://github.com/Wolfmasternas/LuciferMoringstar_Robot)
 
 📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
 
@@ -23,13 +23,13 @@ class LuciferMoringstar(object):
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Updates : [Updates](t.me/wolfmasterxd)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Support : [Any Doubt](t.me/+cZVEXHZXll8zYjll)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
-    PR0FESS0R_99 = """
+    wolfmasterxd = """
 **ADMINS COMMANDS**
 
  » /broadcast - Reply Any Media Or Message
