@@ -78,12 +78,12 @@
         },
         "DEV_NAME": {
             "description": "Creator Name or Username ",
-            "value": "Muhammed",
+            "value": "wolfmasterxd",
             "required": true
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://telegram.dog/Mo_Tech_Group",
+            "value": "https://telegram.dog/+cZVEXHZXll8zYjll",
             "required": true
         }
     },
