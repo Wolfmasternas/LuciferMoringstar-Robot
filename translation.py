@@ -29,7 +29,7 @@ class LuciferMoringstar(object):
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
-    wolfmaster_xd = """
+    WOLFMASTER_XD = """
 **ADMINS COMMANDS**
 
  » /broadcast - Reply Any Media Or Message
